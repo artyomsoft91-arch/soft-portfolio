@@ -79,18 +79,6 @@ const videos = [
     sourceUrl: "https://youtu.be/7c03qTs32ys"
   },
   {
-    title: { EN: "Opening Film for an AI Course", RU: "Открытие курса по AI" },
-    tag: { EN: "Podcast · Course Intro", RU: "Подкаст · Открытие курса" },
-    description: {
-      EN: "A podcast-style opening film for Kirill and Alexey’s course. The edit introduces two experts in AI and marketing, keeps the conversation clear, and builds momentum toward the programme.",
-      RU: "Вступительное видео для курса Кирилла и Алексея. Монтаж знакомит зрителя с экспертами по AI и маркетингу, сохраняет ясность разговора и подводит к программе курса."
-    },
-    duration: "",
-    thumbnail: "https://i.ytimg.com/vi/qaojBS3E9KA/maxresdefault.jpg",
-    url: "https://www.youtube-nocookie.com/embed/qaojBS3E9KA?rel=0&playsinline=1",
-    sourceUrl: "https://youtu.be/qaojBS3E9KA"
-  },
-  {
     title: { EN: "Selected Editing Moments", RU: "Избранные фрагменты монтажа" },
     tag: { EN: "Showreel", RU: "Шоурил" },
     description: {
@@ -101,6 +89,18 @@ const videos = [
     thumbnail: "https://i.ytimg.com/vi/qRpPG479vgg/maxresdefault.jpg",
     url: "https://www.youtube-nocookie.com/embed/qRpPG479vgg?rel=0&playsinline=1",
     sourceUrl: "https://youtu.be/qRpPG479vgg"
+  },
+  {
+    title: { EN: "Opening Film for an AI Course", RU: "Открытие курса по AI" },
+    tag: { EN: "Podcast · Course Intro", RU: "Подкаст · Открытие курса" },
+    description: {
+      EN: "A podcast-style opening film for Kirill and Alexey’s course. The edit introduces two experts in AI and marketing, keeps the conversation clear, and builds momentum toward the programme.",
+      RU: "Вступительное видео для курса Кирилла и Алексея. Монтаж знакомит зрителя с экспертами по AI и маркетингу, сохраняет ясность разговора и подводит к программе курса."
+    },
+    duration: "",
+    thumbnail: "https://i.ytimg.com/vi/qaojBS3E9KA/maxresdefault.jpg",
+    url: "https://www.youtube-nocookie.com/embed/qaojBS3E9KA?rel=0&playsinline=1",
+    sourceUrl: "https://youtu.be/qaojBS3E9KA"
   }
 ];
 

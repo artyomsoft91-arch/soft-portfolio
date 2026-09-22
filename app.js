@@ -75,7 +75,7 @@ const videos = [
     },
     duration: "",
     thumbnail: "https://i.ytimg.com/vi/7c03qTs32ys/maxresdefault.jpg",
-    url: "https://www.youtube-nocookie.com/embed/7c03qTs32ys?rel=0&playsinline=1",
+    url: "https://www.youtube-nocookie.com/embed/zdD4AEVbBtA",
     sourceUrl: "https://youtu.be/7c03qTs32ys"
   },
   {
